@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "map_builder")
+set(map_builder_MAINTAINER "user <user@todo.todo>")
+set(map_builder_DEPRECATED "")
+set(map_builder_VERSION "0.0.0")
+set(map_builder_BUILD_DEPENDS "roscpp" "std_msgs" "cv_bridge")
+set(map_builder_RUN_DEPENDS "roscpp" "cv_bridge" "std_msgs")
+set(map_builder_BUILDTOOL_DEPENDS "catkin")

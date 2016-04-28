@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: map_builder
+Description: Description of map_builder
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/devel/lib 
+Requires: 
